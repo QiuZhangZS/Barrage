@@ -1,2 +1,3 @@
 # Barrage
 弹幕功能
+css的transition属性做滚动，createNode,appendChild和remove实现弹幕的添加和移除
